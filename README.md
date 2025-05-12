@@ -81,3 +81,9 @@ Ma, S.-X., & Lim, S. B. (2021). Single-cell RNA sequencing in Parkinson’s dise
 Heng Li, Bob Handsaker, Alec Wysoker, Tim Fennell, Jue Ruan, Nils Homer, Gabor Marth, Goncalo Abecasis, Richard Durbin, 1000 Genome Project Data Processing Subgroup, The Sequence Alignment/Map format and SAMtools, Bioinformatics, Volume 25, Issue 16, August 2009, Pages 2078–2079, https://doi.org/10.1093/bioinformatics/btp352
 
 Woodard CM, Campos BA, Kuo SH, Nirenberg MJ, Nestor MW, Zimmer M, Mosharov EV, Sulzer D, Zhou H, Paull D, Clark L, Schadt EE, Sardi SP, Rubin L, Eggan K, Brock M, Lipnick S, Rao M, Chang S, Li A, Noggle SA. iPSC-derived dopamine neurons reveal differences between monozygotic twins discordant for Parkinson's disease. Cell Rep. 2014 Nov 20;9(4):1173–82. doi: 10.1016/j.celrep.2014.10.023. Epub 2014 Nov 6. PMID: 25456120; PMCID: PMC4255586.
+
+
+License
+MIT License (See more on License page)
+
+
