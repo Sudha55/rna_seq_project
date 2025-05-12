@@ -51,6 +51,8 @@ Differential gene expression analysis helps researchers identify genes whose exp
 ## Why Build a Gene Expression Database for Parkinson's?
 Projects like this could be helpful in understanding which genes are most affected in Parkinson's disease, and how can one achieve it. There has been many researches on DEG of many tumorous diseases, but very less neurodegenerative diseases. The project is done in an attempt to understand the gap in this research field.
 
+While existing RNA-Seq pipelines like Galaxy and nf-core offer broad functionality, they are often complex and not tailored to specific research questions. In contrast, my project is designed to be lightweight and focused exclusively on Parkinson’s disease, offering a streamlined alternative that is easier to understand and run. A key novelty of this project is the SQL querying, which allows us to explore differential expression results. The workflow combines Bash scripting for automation, Python for statistical analysis, and SQLite for structured storage, making the pipeline both accessible and adaptable for small-scale, disease-specific studies.
+
 The same version of code does not exist anywhere, as the whole pipeline was created by myself based on my need (low storage, low processing on a local machine) for single read files. However, many RNA seq analyses use pair-end reads, and create pipelines for that, which is why this project may slightly differ from other existing code. 
 
 ## Project Components
