@@ -33,7 +33,8 @@ This project creates a full pipeline for exploring differential gene expression 
     - Performs statistical analysis using python libraries
     - Generate required plots 
 
-- **Documentation**: A `README.md` file
+- **Documentation**: A `README.md` file, User_Manual.pdf file for user documentation and code explaination, requirements.txt
+
 
 - **Success Metrics**: The code can be reproduced by other students
 
