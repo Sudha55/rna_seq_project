@@ -39,7 +39,11 @@ This project creates a full pipeline for exploring differential gene expression 
 - **Success Metrics**: The code can be reproduced by other students
 
 ## Background
-Parkinson's disease (PD) is a chronic and progressive neurodegenerative disorder that primarily affects movement. It is caused by the loss of dopamine-producing neurons in the substantia nigra, a part of the brain responsible for controlling movement. Common symptoms include tremors, stiffness, and difficulty with balance and coordination. While medications can help manage symptoms, there is currently no cure for the disease.
+Parkinson’s disease (PD) is the second-most common neurodegenerative disorder in the United States, affecting about 1.1 million people—a number expected to increase to 1.2 million by 2030. Each year, nearly 90,000 new cases are diagnosed in the U.S., reflecting a significant rise from previous estimates. Globally, more than 10 million individuals are living with PD. While the disease is more prevalent in older adults, approximately 4% of cases are diagnosed before the age of 50, indicating the presence of early-onset PD.
+
+Men are about 1.5 times more likely to develop Parkinson’s disease compared to women. The exact reasons for this gender disparity are still being researched. Overall, the burden of PD is increasing worldwide due to aging populations, making it a major public health concern.
+
+Source: https://www.parkinson.org/understanding-parkinsons/statistics
 
 ## What is DEG (Differential Gene Expression)?
 Differential gene expression analysis helps researchers identify genes whose expression levels differ significantly between two or more biological conditions, such as healthy vs. diseased tissues. In the context of RNA-Seq, DEG analysis compares gene read counts across groups to detect genes that may be involved in the disease process.
